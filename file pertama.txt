@@ -1,0 +1,7 @@
+Rincian Materi FS Web MSIB 5
+1. Web Desain
+2. UI/UX
+3. Git/Github
+4. My SQL
+5. Php
+6. Laravel
